@@ -15,4 +15,4 @@ This doesn't look like the type of question that I would enjooy implementing bec
 Part 2 is not something I really want to implement because of the time it would take, but I still appreciate the problem!
 
 ## Day 6:
-Recognized the equation right away for part b, but after discussion with @nlao, I learned that finding the zeros of the equation would have lessened the computation overhead instead of the brute force approach. However, the runtime is basically identical. It alsos seems like the input size HAD to be small, which is a bit unfortunate, making part 2 relatively trivial.
+Recognized the equation right away for part b, but after discussion with @nlao1, I learned that finding the zeros of the equation would have lessened the computation overhead instead of the brute force approach. However, the runtime is basically identical. It alsos seems like the input size HAD to be small, which is a bit unfortunate, making part 2 relatively trivial.
