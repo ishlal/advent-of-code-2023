@@ -25,3 +25,6 @@ Upon reading the problem, this seems easy enough! I wonder what could go wrong..
 
 ## Day 9:
 Seems like a fun problem! But also seems annoying to implement. Update: It was really fun, and not at all annoying to implement! Probably my favorite question thus far. 
+
+## Day 10:
+Part a was moderately fun, but nothing to write home about. Part b is very doable without the implementation thingy because there is a clean math solution, but it's close to midnight and I've been coding for a couple hours at this point so I'm gonna sleep. 
