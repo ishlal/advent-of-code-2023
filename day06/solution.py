@@ -1,4 +1,4 @@
-from parse import parse_input
+from day07.parse import parse_input
 
 
 parsed_input = parse_input()

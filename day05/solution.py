@@ -1,4 +1,4 @@
-from parse import parse_input
+from day07.parse import parse_input
 
 def get_output(input, list_of_lists):
     # given input x, return coded version:

@@ -1,5 +1,5 @@
-from parse import parse_input
-from parse import parse_input2
+from day07.parse import parse_input
+from day07.parse import parse_input2
 
 parsed_input = parse_input("input.txt")
 parsed_input2 = parse_input2("input.txt")
